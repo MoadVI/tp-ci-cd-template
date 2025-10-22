@@ -13,3 +13,6 @@
 - Submit a Pull Request for each branch. 
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
+
+## Moad Section
+- This section was added by Moad Chahti
