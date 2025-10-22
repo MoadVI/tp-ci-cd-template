@@ -13,3 +13,9 @@
 - Submit a Pull Request for each branch. 
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
+### New section ( added by ayoub)
+-Line 1 
+- Line 2 
+-Line 3 
+-Line 4 
+
