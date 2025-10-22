@@ -12,13 +12,3 @@ Mouad BENSAFIR
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 
-#### Readme modified again
-modifying readme
-
-#Hiba's modification
-
-## This is Chaima's Modification hihi
-## Another modif
-
-## this is Alae's modificatioonnn 
-# I updated the README file
