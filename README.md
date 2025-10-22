@@ -15,4 +15,4 @@
 - Clone, push, and pull from multiple machines. 
 
 ## Moad Section
-- This section was added by Moad Chahti
+- This section was added by Moad Chahti.
