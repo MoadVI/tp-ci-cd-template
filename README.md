@@ -16,3 +16,11 @@
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 
+### Basic Clock Application
+In order to accompish these tasks, me, Yassine BOURICH, decided to make a basic clock application to demonstrate the collaboration workflow using Git & GitHub.
+
+### Group members
+- Yassine BOURICH
+- Ayoub EL-Azzouzi
+- Moad CHAHTI
+- Soufiane AIT LHADJ
